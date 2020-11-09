@@ -111,6 +111,10 @@
     margin: 20px 0;
 }
 
+.flex-reverse .row{
+    flex-direction: row-reverse;
+}
+
 /* FLEX GRID */
 .flex-grid .row {
     display: flex;
