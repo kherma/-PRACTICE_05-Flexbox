@@ -1,4 +1,4 @@
-# -PRACTICE_05-Flexbox
+# practice-05-flexbox
 
 ## Practice Project - course project;
 ## Side Project - personal project;
